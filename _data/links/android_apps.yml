@@ -1,0 +1,8 @@
+- name: lineage os
+  link: https://lineageos.org/
+
+- name: feeder
+  link: https://f-droid.org/en/packages/com.nononsenseapps.feeder/
+
+- name: aurora store
+  link: https://f-droid.org/en/packages/com.aurora.store/
