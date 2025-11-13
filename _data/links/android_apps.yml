@@ -6,3 +6,27 @@
 
 - name: aurora store
   link: https://f-droid.org/en/packages/com.aurora.store/
+
+- name: f-droid
+  link: https://f-droid.org/
+
+- name: gmaps wv
+  link: https://f-droid.org/en/packages/us.spotco.maps/
+
+- name: fennec
+  link: https://f-droid.org/packages/org.mozilla.fennec_fdroid/
+
+- name: dnsnet
+  link: https://f-droid.org/en/packages/dev.clombardo.dnsnet/
+
+- name: flauncher
+  link: https://gitlab.com/flauncher/flauncher
+
+- name: newpipe
+  link: https://github.com/TeamNewPipe/NewPipe
+
+- name: smarttube
+  link: https://github.com/yuliskov/smarttube
+
+- name: vlc player
+  link: https://www.videolan.org/vlc/

@@ -1,0 +1,20 @@
+- name: vim
+  link: 
+
+- name: libre wolf
+  link: https://librewolf.net/
+
+- name: zwift
+  link: https://www.zwift.com/
+
+- name: xubuntu linux
+  link: https://xubuntu.org/
+
+- name: moode audio
+  link: https://moodeaudio.org/
+
+- name: mtg:arena
+  link: https://magic.wizards.com/en/mtgarena
+
+- name: calibre
+  link: https://calibre-ebook.com/
