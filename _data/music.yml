@@ -1,9 +1,17 @@
-- artist: Wet Leg
-  song: Mangetout
-  date: 2025-11-08
-  embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/lbc6CcZTp5E?si=CLyRZRvpxjyqhfwj" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- artist: Balu Brigada
+  song: So Cold
+  date: 2025-11-13
+  embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/ghTVa3-5PTg?si=44C46nXfoweGYfMR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  link: https://www.youtube.com/watch?v=ghTVa3-5PTg
 
 - artist: Turnstile 
   song: Underwater Boi
   date: 2025-11-10
   embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/LH4DMwJAugA?si=NacoIBCiqE6dyUtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+  link: https://www.youtube.com/watch?v=LH4DMwJAugA
+
+- artist: Wet Leg
+  song: Mangetout
+  date: 2025-11-08
+  embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/lbc6CcZTp5E?si=CLyRZRvpxjyqhfwj" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  link: https://www.youtube.com/watch?v=lbc6CcZTp5E
