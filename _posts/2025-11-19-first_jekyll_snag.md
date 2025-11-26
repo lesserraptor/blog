@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "first jekyll snag"
+tag-name: jekyll
 ---
 ah well. i hit my first jekyll snag. 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "levels of wealth"
+tag-name: finance
 ---
 a while ago, i think it was before the pandemic, i was talking about "feeling wealthy" with a coworker. i can't remember why it came up, but this coworker was describing to me an article he had read about how as you gain wealth, certain transactions become less impactful because they are smaller and smaller percentages of your total wealth.
 

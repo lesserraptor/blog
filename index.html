@@ -1,0 +1,66 @@
+---
+layout: default
+title: home
+---
+<div class="links_collection">
+    <div id="links">
+        <p>android software i like:</p>
+        <ul>
+        {% for link in site.data.links.android_apps %}
+            <li><a href="{{ link.link }}">{{ link.name }}</a></li>
+        {% endfor %}
+        </ul>
+        <p>pc software i like:</p>
+        <ul>
+        {% for link in site.data.links.pc %}
+            <li><a href="{{ link.link }}">{{ link.name }}</a></li>
+        {% endfor %}
+        </ul>
+        <p>websites i like:</p>
+        <ul>
+        {% for link in site.data.links.websites %}
+            <li><a href="{{ link.link }}">{{ link.name }}</a></li>
+        {% endfor %}
+        </ul>
+        <p>guitar players i like:</p>
+        <ul>
+        {% for link in site.data.links.guitar_players %}
+            <li><a href="{{ link.link }}">{{ link.name }}</a></li>
+        {% endfor %}
+        </ul>
+    </div>
+</div>
+
+<div class="home">
+
+  {%- if paginator.total_posts > 0 -%}
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+    <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+            <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+        {{ post.content | strip_html | truncatewords: 50 }}
+    </li>
+    {%- endfor -%}
+  </ul>
+
+<!-- Pagination links -->
+<div class="pagination" align="center">
+  {% if paginator.previous_page %}
+    [<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>]
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    [<a href="{{ paginator.next_page_path }}" class="next">Next</a>]
+  {% endif %}
+</div>
+
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+</div>

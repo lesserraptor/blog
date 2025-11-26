@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "github + neocities"
+tag-name: git browsing
 ---
 this is really cool -- i've got this site building static HTML using [jekyll](https://jekyllrb.com/) and hosting it here on [neocities](https://neocities.org). i'm digging this as an approach because it keeps the HTML really simple -- there isn't super complex templating, and there isn't super complex server side construction of each page. what you see is what i built, and it serves statically.
 
