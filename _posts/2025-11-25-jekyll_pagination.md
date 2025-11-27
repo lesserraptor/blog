@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "pagination in jekyll steps"
-tag-name: jekyll
+tags: jekyll
 ---
 ok, this is a stupid meta-post about me fiddling around with jekyll.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "movie realness"
-tag-name: movie
+tags: movie
 ---
 or maybe i should title this "lack of movie realness". 
 

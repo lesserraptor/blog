@@ -2,6 +2,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "a collection of thoughts" # the name of your site, e.g. ACME Corp.
 
+collections:
+    tags:
+        output: true
+        permalink: tags/:path/
+
 plugins:
     - jekyll-paginate
 

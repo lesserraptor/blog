@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "git usage reminder"
-tag-name: git
+tags: git
 ---
 i seem to forget how to use git everytime i sit down to use it. admittedly, i don't use it all that often, but i just really struggle keeping its "mental model" in my head.
 

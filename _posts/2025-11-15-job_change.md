@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "job change"
-tag-name: job
+tags: job
 ---
 it's a really cool thing to have worked on a project for more than a decade. you get really familiar with all the little aspects of the project. you know how so much of it works, and you know all the people involved. you can make decisions based on your experience, and your experience is valuable.
 

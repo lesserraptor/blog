@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "android tv mods"
-tag-name: android
+tags: android
 ---
 i did this a while ago, but i wanted to publish it here so i don't lose it.
 
