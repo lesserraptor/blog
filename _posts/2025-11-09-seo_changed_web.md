@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SEO changed the web
+tags: web
 ---
 search engine optimization (or SEO) has drastically changed how the web looks.
     

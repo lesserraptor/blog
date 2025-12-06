@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "personal brand"
+tags: web
 ---
 i remember before the internet was all about "branding yourself". i'm not sure how it mutated into this current state. it's a little disconcerting, though.
 
