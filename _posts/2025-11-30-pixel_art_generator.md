@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "pixel art generator"
-tags: web
+tags: web ai
 ---
 definitely going to have to remember this one: [pixel art generator](https://perchance.org/ai-pixel-art-generator)
 

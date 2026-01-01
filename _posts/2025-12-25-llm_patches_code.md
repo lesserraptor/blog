@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "llm patches code"
-tags: llm linux
+tags: ai linux
 ---
 alright, i'm going to sound a little like an llm cheerleader here, but i had a pretty big success with claude today and i wanted to write about what i did.
 

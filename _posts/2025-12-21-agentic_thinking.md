@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "agentic thinking"
+tags: ai
 ---
 i've been using LLMs quite a bit at work lately. our chief product officer is intending to transform the company by incorporating "AI" into our day-to-day work, and so i've been trying to figure out how that will work for me personally.
 
