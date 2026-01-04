@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "the spirit of the internet"
+tags: web
 ---
 i'm having a lot of fun writing a blog again. there's just something about writing some text, processing it, and then having it show up on the internet. it makes me feel good. plus, though i've never had much luck writing in a diary, there's something cathartic about just jotting down some random ideas that i don't want to lose.
 
